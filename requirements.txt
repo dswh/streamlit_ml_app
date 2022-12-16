@@ -1,7 +1,0 @@
-scikit-learn
-pandas
-matplotlib
-seaborn
-streamlit
-yfinance
-pickle
